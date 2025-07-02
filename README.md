@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shakibkhatri&label=Profile%20views&color=0e75b6&style=flat" alt="shakibkhatri" /> </p>
 
-- 🔭 I’m currently working on **Software Automation Testing for Bosch**
+- 🔭 I’m currently developing ** a Messenger Application for IRES gmbh**
 
-- 🌱 I’m currently learning **Mobile Robot Scripting - Python**
+- 🌱 I’m currently learning ** the DSGVO policies and how can I implement these in my application **
 
 - 👨‍💻 Want to know bit more about me [https://shakibkhatri.netlify.app/](https://shakibkhatri.netlify.app/)
 
-- 💬 Ask me about **Android Development, Jetpack Compose and bit of Scripting.**
+- 💬 Ask me about **Android Development, Kotlin Multiplatform, Jetpack Compose and bit of Scripting.**
 
 - 📫 How to reach me **shakibkhatri@gmail.com**
 
