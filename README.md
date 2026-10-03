@@ -14,7 +14,7 @@ I've been doing mobile development for a little over 4 years. Most of my work th
 
 ### Stuff I use
 
-Kotlin, Kotlin Multiplatform, Jetpack Compose, Android, iOS, Firebase, SQLite, Python, JavaScript, Git, Docker.
+Kotlin, Kotlin Multiplatform, Jetpack Compose, Android, iOS, Firebase, SQLite, Python (lil bit;}), TypeScript, JavaScript, Git, Docker.
 
 ### Other things
 
