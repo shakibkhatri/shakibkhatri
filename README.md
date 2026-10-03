@@ -10,7 +10,7 @@ I've been doing mobile development for a little over 4 years. Most of my work th
 
 [Google Play](https://play.google.com/store/apps/details?id=com.dissent) | [App Store](https://apps.apple.com/app/id6776695156)
 
-**Idiolect** is something I started recently. AI tools write a lot of code now, but you can usually tell, too many comments, extra helper functions nobody asked for. Idiolect tries to fix that so the code looks like a real developer wrote it.
+**[Idiolect](https://github.com/shakibkhatri/Idiolect)** is something I started recently. AI tools write a lot of code now, but you can usually tell, too many comments, extra helper functions nobody asked for. Idiolect tries to fix that so the code looks like a real developer wrote it.
 
 ### Stuff I use
 
